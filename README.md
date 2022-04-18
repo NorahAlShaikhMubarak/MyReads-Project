@@ -6,8 +6,8 @@ MyReads is a project build using React library, it demonstares React fundamental
 
 MyReads is a cataloge app that shows a list of books initially showen in shelves as the following:
 
-Currently Reading
-Want to Read
+Currently Reading,
+Want to Read,
 Read
 
 Users can switch and move the books based on the categories.
