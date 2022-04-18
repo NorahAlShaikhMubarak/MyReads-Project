@@ -14,6 +14,15 @@ Users can switch and move the books based on the categories.
 
 Futhermore, the user can search by author or book name and add the books into the previous categories.
 
+# Project breakdown:
+App.js has two routers: to the list books component and the search component.
+The BooksList component includes the Bookshelf component plus the search button.
+Bookshelf component maps over the books component. 
+The books component include the BookshelfChanger component which changes the state of the books.
+
+The search component has the close search button, SearchBooksInput component which takes the user input
+, and SearchBooksResults componen which maps the new books to the corresponding shelf.
+
 # Installation:
 
 $ git clone https://github.com/NorahAlShaikhMubarak/MyReads-Project.git
