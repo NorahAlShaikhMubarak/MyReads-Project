@@ -17,7 +17,9 @@ Futhermore, the user can search by author or book name and add the books into th
 # Installation:
 
 $ git clone https://github.com/NorahAlShaikhMubarak/MyReads-Project.git
+
 $ cd myreads-project
+
 $ npm install
 
 # Usage
